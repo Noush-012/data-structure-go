@@ -1,0 +1,1 @@
+fmt.Println("Value:", d, "Deleted Successfully !!!")
